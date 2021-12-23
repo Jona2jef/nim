@@ -1,0 +1,8 @@
+Package: nim
+Version: 1.6.2
+Section: Programming
+Architecture: armv6l
+Essential: no
+Maintainer: Jona2jef@github.org
+Description: Nim build for armv6l (i.e. machines like Raspberry pi zero, 1 A, B, B+ (and later models as well))
+
